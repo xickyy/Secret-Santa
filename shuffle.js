@@ -5,7 +5,7 @@
 
 // Run it and let the code do what the code do :D
 
-// need to fix one problem, possibility of last buyer equaling the last reciever 
+// need to fix one problem, possibility of last buyer equaling the last reciever -
 
 
 let buyers = ['Ricky', 'Bobbie', 'Shelbi', 'Savannah', 'Hailey', 'Madison', 'Candace', 'Jose', 'Haim', 'Alyssa', 'Zaiden', 'Vivian', 'Lexi', 'Damien', 'Brian', 'Nick'];
